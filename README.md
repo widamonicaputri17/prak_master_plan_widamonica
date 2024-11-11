@@ -1,8 +1,19 @@
-![Screenshot 2024-11-11 114333](https://github.com/user-attachments/assets/e7abdc19-864d-4941-8af5-07dc454ef9d1)
-![Screenshot 2024-11-11 102748](https://github.com/user-attachments/assets/fd2d93c0-826b-46e4-95de-aec79e4cef2d)
-![Screenshot 2024-11-11 102729](https://github.com/user-attachments/assets/663852ef-ed4a-4a6d-81e5-98d28b7c1e85)
-![Screenshot 2024-11-11 102007](https://github.com/user-attachments/assets/e894a911-ffa5-4784-ae88-9729999910c2)
+# Wida Monica Putri
+# 362358302008
 
-![Screenshot 2024-11-11 093230](https://github.com/user-attachments/assets/bb3bf402-a70d-4619-b808-ae75d027534e)
+# Tugas Praktkum 1  :Dasar State dengan Model View
+# 2. 
+Langkah 4 adalah pembuatan data_layer.dart, yang mengekspor task.dart dan plan.dart. Langkah ini menyederhanakan impor mendatang karena menggabungkan model-model ini ke dalam satu titik akses. 
+# 3.
+Variabel plan pada Langkah 6 mewakili model data utama untuk menyimpan tugas. 
+# 4. 
+![Screenshot 2024-11-11 092710](https://github.com/user-attachments/assets/74550e5e-6264-4a5c-a767-814c59e7695d)
+![Screenshot 2024-11-11 093230](https://github.com/user-attachments/assets/a31ada8b-e7d2-406a-86bb-fe9e2159feaf)
+Pada Langkah 9 , _buildTaskTilewidget dibuat, yang menampilkan setiap tugas dengan kotak centang (untuk status penyelesaian) dan kolom teks (untuk mengedit deskripsi). 
+Penjelasan: Bagian UI ini memungkinkan pengguna berinteraksi langsung dengan tugas individual, memungkinkan mereka menandai tugas sebagai selesai atau mengubah deskripsi.
+# 5.
+Langkah 11 (Scroll Listener di initState) : Menambahkan scroll listener untuk menghilangkan fokus dari keyboard saat menggulir, yang meningkatkan pengalaman pengguna dengan menyembunyikan keyboard secara otomatis selama pengguliran.
+Langkah 13 ( disposemetode) : menghindari kebocoran memori dan menjaga manajemen sumber daya tetap efisien.
 
-![Screenshot 2024-11-11 114346](https://github.com/user-attachments/assets/784e6999-9ab8-489d-a9d1-f2db78b484a9)
+# Tugas Praktikum 2:  Mengelola Data Layer
+
