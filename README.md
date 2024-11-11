@@ -35,7 +35,7 @@ Tombol Tindakan Mengambang (FAB) : Tombol "+" hijau di kanan bawah biasanya meru
 
 
 
-#Tugas Praktikum 3 : State di Multiple Screen
+# Tugas Praktikum 3 : State di Multiple Screen
 # 2. Menjelaskan gambar diagram
 Gambar di atas menunjukkan diagram hierarki widget dalam aplikasi Flutter, khususnya tentang bagaimana tampilan berpindah dari satu layar ke layar lain menggunakan Navigator.push. Berikut penjelasan dari masing-masing bagian:
 
